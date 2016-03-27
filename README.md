@@ -62,13 +62,13 @@ Now that you’ve got the basics of responsive design down, you’ll learn about
 
 Learn strategies for minor breakpoints used to adjust the margins or padding on an element, or increase the font size to make it feel more natural in the layout. You’ll also learn about strategies for dealing with tables and optimal text readability. At the end of the lesson, you'll iterate for the last time on the home town site, adding minor breakpoints to really make the experience stand out.
 
-**Topics covered:**
+** Topics covered: **
 * Minor break points
 * Optimizing text layout
   * font size
   * optimal line length
 * Responsive tables, and strategies for dealing with them
-* 
+
 ##Instructors
 ###Pete LePage
 Pete is a developer advocate at Google and works to make the lives of web developers easier. Working on projects like Web Fundamentals and Google web developer videos, he's focused on ensuring that developers have the tools and skills they need to build great responsive sites and apps with awesome user experiences.
