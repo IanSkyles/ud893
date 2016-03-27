@@ -40,6 +40,7 @@ The best way to get started is to start small and build up. In this lesson, we c
 * Sizing the content to the viewport
   * avoiding static sized items
 * Touch target, and why they should be large
+
 **Other Takeaways**
 * Device independent pixels vs Hardware pixels
 * Device pixel ratios (hardware pixels over dip)
