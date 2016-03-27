@@ -45,8 +45,11 @@ The best way to get started is to start small and build up. In this lesson, we c
 * Device pixel ratios (hardware pixels over dip)
 * width=device-width allows the page to reflow  content to match the device
 * initial-scale=1 tells the browser to match the DIP and CSS pixels to a 1:1 ratio
-* **Dont forget to set the viewport** using <meta name="viewport" content="width=device-width, initial-scale=1.0">
-* 
+* **Dont forget to set the viewport** using `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+* Make sure pictures don't overflow the viewport by putting this code in your css
+```img, embed, object, video {
+	max-width: 100%
+}```
 
 ###Lesson 3 - Building Up
 
