@@ -6,7 +6,7 @@ In this course I learned the fundamentals of responsive web design with Google's
 I started by exploring what makes a site responsive and how some common responsive design patterns work across different devices. From there, I learned how to create my own responsive layout using the viewport tag and CSS media queries. Finally, I experimented with major and minor breakpoints, and optimizing text for reading.
   
 ##Why I took this course
-The way people browse the web is changing quickly - fewer and fewer users access the web at a desk in front of a large monitor with a keyboard and mouse. The web is increasingly being enjoyed on phones, tablets, wearables, TVs and everything in between. By designing a site to be responsive, it will look good and work well no matter what device your users have in front of them.
+The way people browse the web is changing quickly - fewer and fewer users access the web at a desk in front of a large monitor with a keyboard and mouse. The web is increasingly being enjoyed on phones, tablets, wearables, TVs and everything in between. By designing a site to be responsive, it will look good and work well no matter what device my users have in front of them.
 
 Throughout this course, I worked through a project. I created a home town website that works well on phones, tablets and desktop displays.
 
