@@ -1,2 +1,77 @@
-# ud893
-Udacity's Responsive Web Design Fundamentals
+# Udacity's Responsive Web Design Fundamentals - ud893
+
+##Course Summary
+In this course I learned the fundamentals of responsive web design with Google's Pete LePage! I created my own responsive web page that works well on any device - phone, tablet, desktop or anything in between.
+
+I started by exploring what makes a site responsive and how some common responsive design patterns work across different devices. From there, I learned how to create my own responsive layout using the viewport tag and CSS media queries. Finally, I experimented with major and minor breakpoints, and optimizing text for reading.
+  
+##Why I took this course
+The way people browse the web is changing quickly - fewer and fewer users access the web at a desk in front of a large monitor with a keyboard and mouse. The web is increasingly being enjoyed on phones, tablets, wearables, TVs and everything in between. By designing a site to be responsive, it will look good and work well no matter what device your users have in front of them.
+
+Throughout this course, I worked through a project. I created a home town website that works well on phones, tablets and desktop displays.
+
+## Course Final Proect 
+###How do I Complete this Project?  
+  Here's what you should do:  
+1. 
+2. 
+* 
+*  
+
+##Course Syllabus
+###Lesson 1 - Why Responsive?
+
+What is responsive web design and why is it important? What kinds of devices should we be targeting with our design? How can we best leverage the different capabilities of each device to provide great experiences to users? You’ll also make sure that your development environment is ready to go.
+
+**Topics covered:**
+* What is responsive design?
+* Why does responsive design work for any device?
+* Remote debugging and emulation in the browser
+
+###Lesson 2 - Starting Small
+
+The best way to get started is to start small and build up. In this lesson, we’ll cover the key components that make a site great on a small screen, including setting the viewport, adding content and sizing the content to the viewport. You’ll start the home town site project, by making sure that it looks good on a small screen.
+
+**Topics covered:**
+* Why start small and build up?
+* What is the viewport?
+* Sizing the content to the viewport
+  * avoiding static sized items
+* Touch target, and why they should be large
+
+###Lesson 3 - Building Up
+
+Once you’ve got a page optimized for small screens, it’s time to start thinking about how they’ll look on larger screens. Learn how to use CSS media queries to add breakpoints that change the layout depending on the screen size or other device characteristics.
+
+**Topics covered:**
+* CSS media queries
+* What is a breakpoint, and how to choose one
+* Using the CSS flexbox to modify layout
+
+###Lesson 4 - Common Responsive Patterns
+
+Now that you’ve got the basics of responsive design down, you’ll learn about and practice some of the common layout design patterns used across sites. You'll also iterate on the home town site project, creating breakpoints for tablet and desktop layouts using the patterns from this lesson.
+
+**Topics covered:**
+* Mostly fluid pattern
+* Column drop pattern
+* Layout shifter pattern
+* Off canvas pattern
+
+###Lesson 5 - Optimizations
+
+Learn strategies for minor breakpoints used to adjust the margins or padding on an element, or increase the font size to make it feel more natural in the layout. You’ll also learn about strategies for dealing with tables and optimal text readability. At the end of the lesson, you'll iterate for the last time on the home town site, adding minor breakpoints to really make the experience stand out.
+
+**Topics covered:**
+* Minor break points
+* Optimizing text layout
+  * font size
+  * optimal line length
+* Responsive tables, and strategies for dealing with them
+* 
+##Instructors
+###Pete LePage
+Pete is a developer advocate at Google and works to make the lives of web developers easier. Working on projects like Web Fundamentals and Google web developer videos, he's focused on ensuring that developers have the tools and skills they need to build great responsive sites and apps with awesome user experiences.
+
+###Cameron Pittman
+A passionate educator and programmer, Cameron lives and breathes web development as he creates programming courses at Udacity. Before coming here, Cameron was a combination Director of Content and web developer at Seattle startup LearnBIG. He taught four years of high school physics and chemistry in Nashville, TN, during which time he pioneered teaching physics with the video game Portal 2. Cameron graduated with a degree in physics and astronomy from Vanderbilt University and earned his master's in teaching from Belmont University.
