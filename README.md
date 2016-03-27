@@ -47,9 +47,16 @@ The best way to get started is to start small and build up. In this lesson, we c
 * initial-scale=1 tells the browser to match the DIP and CSS pixels to a 1:1 ratio
 * **Dont forget to set the viewport** using `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 * Make sure pictures don't overflow the viewport by putting this code in your css
+
 ```img, embed, object, video {
 	max-width: 100%
 }```
+* Tap targets should be 48px by 48px minimum so they are bigger than people's thumbs with fat fingers.
+```
+nav a, button {
+	min-width: 48px;
+	min-height: 48px;
+```
 
 ###Lesson 3 - Building Up
 
