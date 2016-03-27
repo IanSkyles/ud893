@@ -45,18 +45,29 @@ The best way to get started is to start small and build up. In this lesson, we c
 * Device pixel ratios (hardware pixels over dip)
 * width=device-width allows the page to reflow  content to match the device
 * initial-scale=1 tells the browser to match the DIP and CSS pixels to a 1:1 ratio
-* **Dont forget to set the viewport** using `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+* **Dont forget to set the viewport** using
+`<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 * Make sure pictures don't overflow the viewport by putting this code in your css
 
-```img, embed, object, video {
+```
+img, embed, object, video {
 	max-width: 100%
-}```
+}
+```
 * Tap targets should be 48px by 48px minimum so they are bigger than people's thumbs with fat fingers.
 ```
 nav a, button {
 	min-width: 48px;
 	min-height: 48px;
+}
 ```
+* Design from the ground up: wearble to phone to tablet to desktop to tv (or however far you need to go)
+
+####L2 Assignment
+* Add a <meta> viewport to the page with initial scale set.
+* Adjust CSS and markup so that everything displays in a single column. Use relative widths so that things stretch to fit across any viewport width.
+* Make sure your touch targets are easy to hit
+* Test your site across different viewports. Try it on different phones, tablets, and desktops.
 
 ###Lesson 3 - Building Up
 
