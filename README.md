@@ -27,6 +27,7 @@ What is responsive web design and why is it important? What kinds of devices sho
 * What is responsive design?
 * Why does responsive design work for any device?
 * Remote debugging and emulation in the browser
+
 **Other Takeaways**
 * How to set up debugging in the browser on desktop and android devices.
 
