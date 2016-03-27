@@ -13,15 +13,15 @@ Throughout this course, I worked through a project. I created a home town websit
 ## Course Final Proect 
 ###How do I Complete this Project?  
   Here's what you should do:  
-1. 
-2. 
+1. CURRENTLY EMPTY
+2. NEED TO FILL OUT 
 * 
 *  
 
 ##Course Syllabus
 ###Lesson 1 - Why Responsive?
 
-What is responsive web design and why is it important? What kinds of devices should we be targeting with our design? How can we best leverage the different capabilities of each device to provide great experiences to users? You’ll also make sure that your development environment is ready to go.
+What is responsive web design and why is it important? What kinds of devices should we be targeting with our design? How can we best leverage the different capabilities of each device to provide great experiences to users? It also made sure that my development environment was ready to go.
 
 **Topics covered:**
 * What is responsive design?
@@ -30,7 +30,7 @@ What is responsive web design and why is it important? What kinds of devices sho
 
 ###Lesson 2 - Starting Small
 
-The best way to get started is to start small and build up. In this lesson, we’ll cover the key components that make a site great on a small screen, including setting the viewport, adding content and sizing the content to the viewport. You’ll start the home town site project, by making sure that it looks good on a small screen.
+The best way to get started is to start small and build up. In this lesson, we covered the key components that make a site great on a small screen, including setting the viewport, adding content and sizing the content to the viewport. I started the home town site project, by making sure that it looks good on a small screen.
 
 **Topics covered:**
 * Why start small and build up?
@@ -41,7 +41,7 @@ The best way to get started is to start small and build up. In this lesson, we�
 
 ###Lesson 3 - Building Up
 
-Once you’ve got a page optimized for small screens, it’s time to start thinking about how they’ll look on larger screens. Learn how to use CSS media queries to add breakpoints that change the layout depending on the screen size or other device characteristics.
+Since I had gotten the page optimized for small screens, it was now time to start thinking about how they’ll look on larger screens. I learned how to use CSS media queries to add breakpoints that change the layout depending on the screen size or other device characteristics.
 
 **Topics covered:**
 * CSS media queries
@@ -50,7 +50,7 @@ Once you’ve got a page optimized for small screens, it’s time to start think
 
 ###Lesson 4 - Common Responsive Patterns
 
-Now that you’ve got the basics of responsive design down, you’ll learn about and practice some of the common layout design patterns used across sites. You'll also iterate on the home town site project, creating breakpoints for tablet and desktop layouts using the patterns from this lesson.
+With the basics of responsive design down, I went on to learn about and practice some of the common layout design patterns used across sites. Also, I iterated on the home town site project, creating breakpoints for tablet and desktop layouts using the patterns from this lesson.
 
 **Topics covered:**
 * Mostly fluid pattern
@@ -60,9 +60,9 @@ Now that you’ve got the basics of responsive design down, you’ll learn about
 
 ###Lesson 5 - Optimizations
 
-Learn strategies for minor breakpoints used to adjust the margins or padding on an element, or increase the font size to make it feel more natural in the layout. You’ll also learn about strategies for dealing with tables and optimal text readability. At the end of the lesson, you'll iterate for the last time on the home town site, adding minor breakpoints to really make the experience stand out.
+I learned strategies for minor breakpoints used to adjust the margins or padding on an element, or increase the font size to make it feel more natural in the layout. Also, I learned about strategies for dealing with tables and optimal text readability. At the end of the lesson, I iterated for the last time on the home town site, adding minor breakpoints to really make the experience stand out.
 
-** Topics covered: **
+**Topics covered:**
 * Minor break points
 * Optimizing text layout
   * font size
