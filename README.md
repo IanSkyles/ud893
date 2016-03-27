@@ -27,6 +27,8 @@ What is responsive web design and why is it important? What kinds of devices sho
 * What is responsive design?
 * Why does responsive design work for any device?
 * Remote debugging and emulation in the browser
+**Other Takeaways**
+* How to set up debugging in the browser on desktop and android devices.
 
 ###Lesson 2 - Starting Small
 
@@ -38,6 +40,13 @@ The best way to get started is to start small and build up. In this lesson, we c
 * Sizing the content to the viewport
   * avoiding static sized items
 * Touch target, and why they should be large
+**Other Takeaways**
+* Device independent pixels vs Hardware pixels
+* Device pixel ratios (hardware pixels over dip)
+* width=device-width allows the page to reflow  content to match the device
+* initial-scale=1 tells the browser to match the DIP and CSS pixels to a 1:1 ratio
+* **Dont forget to set the viewport** using <meta name="viewport" content="width=device-width, initial-scale=1.0">
+* 
 
 ###Lesson 3 - Building Up
 
