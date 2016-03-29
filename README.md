@@ -66,10 +66,10 @@ nav a, button {
 * Design from the ground up: wearble to phone to tablet to desktop to tv (or however far you need to go)
 
 ####L2 Assignment
-* Add a <meta> viewport to the page with initial scale set.
-* Adjust CSS and markup so that everything displays in a single column. Use relative widths so that things stretch to fit across any viewport width.
-* Make sure your touch targets are easy to hit
-* Test your site across different viewports. Try it on different phones, tablets, and desktops.
+- [X] Add a <meta> viewport to the page with initial scale set.
+- [X] Adjust CSS and markup so that everything displays in a single column. Use relative widths so that things stretch to fit across any viewport width.
+- [X] Make sure your touch targets are easy to hit
+- [X] Test your site across different viewports. Try it on different phones, tablets, and desktops.
 
 ###Lesson 3 - Building Up
 
