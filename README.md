@@ -91,6 +91,30 @@ Since I had gotten the page optimized for small screens, it was now time to star
    	@media screen and (min-width:500px) { body {color: #F79420; }}  
         @media screen and (min-width:800px) { body {background-color: blue; }}
 ```
+ * Between 0 and 400 pixels, set the background color to red:
+```
+@media screen and (min-width: 0px) and (max-width: 400px) {
+        body {
+          background-color: red;
+        }
+}
+```
+ * Between 401 and 599 pixels, set the background color to green:
+```
+@media screen and (min-width: 401px) and (max-width: 599px) {
+        body {
+          background-color: green;
+        }
+}
+```
+ * For 600 and above pixels, set the background color to blue:
+```
+@media screen and (min-width: 600px) {
+        body {
+          background-color: blue;
+        }
+}
+```
 
 ###Lesson 4 - Common Responsive Patterns
 
