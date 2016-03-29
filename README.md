@@ -115,6 +115,12 @@ Since I had gotten the page optimized for small screens, it was now time to star
         }
 }
 ```
+* `display:flex;` turns divs into a row.
+* `flex-wrap:wrap;` turns divs into a row but resizes by popping a div into the column below.
+* `order` lets you have unique display orders based on pixel size.
+* Design Tools/Patterns: Flex box, Flex grid, breakpoints, media queries.
+
+
 
 ###Lesson 4 - Common Responsive Patterns
 
