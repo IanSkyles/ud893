@@ -1,0 +1,49 @@
+
+.container {
+  width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.box {
+	width: 100%;
+	min-height: 150px;
+	text-align: center;
+}
+
+.dark_blue {
+	background-color: #00008B;
+}
+
+.light_blue {
+	background-color: #ADD8E6
+}
+
+.green {
+	background-color: #008000;
+}
+.red {
+  background-color: #FF0000;
+}
+
+@media screen and (min-width: 500px) {
+  .dark_blue {
+    width: 50%;
+  }
+  #container2 {
+    width: 50%;
+  }
+}
+@media screen and (min-width: 750px) {
+  .dark_blue {
+    width: 25%;
+    order: 1;
+  }
+  .red {
+    order: -1;
+    width: 25%;
+  }  
+  #container2 {
+    width: 50%;
+  }
+}
