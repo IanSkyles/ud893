@@ -128,8 +128,11 @@ With the basics of responsive design down, I went on to learn about and practice
 
 **Topics covered:**
 * Mostly fluid pattern
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/4_Common_Responsive_Patterns/screenShots/mostlyFluid.jpg?raw=true "Mostly fluid")
 * Column drop pattern
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/4_Common_Responsive_Patterns/screenShots/columnDrop.jpg?raw=true "Column drop")
 * Layout shifter pattern
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/4_Common_Responsive_Patterns/screenShots/layoutShifter.jpg?raw=true "Layout shifter")
 * Off canvas pattern
 
 ###Lesson 5 - Optimizations
