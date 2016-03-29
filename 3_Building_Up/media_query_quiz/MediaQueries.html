@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!-- saved from url=(0069)http://udacity.github.io/RWDF-samples/quizzes/media-queries-quiz.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>min AND max-width Media Queries</title>
+    <meta name="udacity-grader" content="media-queries-quiz.json" unit-tests="media-queries-quiz.js">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./MediaQueries_files/default-styles.css">
+    <style type="text/css">
+      h1 {
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        font-size: 6em;
+        font-family: Roboto;
+        transition: all 0.5s;
+      }
+
+      @media screen and (min-width: 0px) and (max-width: 400px) {
+        body {
+          background-color: red;
+        }
+      }
+      @media screen and (min-width: 401px) and (max-width: 599px) {
+        body{
+          background-color: green;
+        }
+      }
+      @media screen and (min-width: 600px) {
+        body{
+          background-color: blue;
+        }
+      }
+    </style>
+  <style type="text/css"></style><link rel="import" href="chrome-extension://melpgahbngpgnbhhccnopmlmpbmdaeoi/src/templates/feedback.html" id="udacity-test-widget"><script id="ud-grader-options">UdacityFEGradingEngine.turnOn();</script></head>
+  <body>
+    <div class="container">
+      <h1 class="yes">This is page content.</h1>
+      <p>media queries. Media queries. Media queries! MEDIA QUERIES!</p>
+    </div>
+  
+
+<script src="chrome-extension://melpgahbngpgnbhhccnopmlmpbmdaeoi/src/js/libs/GE.js" id="udacity-front-end-feedback"></script><script id="ud-69196063">UdacityFEGradingEngine.registerSuites("[{\n  \"name\": \"Media Queries Quiz\",\n  \"code\": \"BREAKingbadPOINTS\",\n  \"tests\": [\n    {\n      \"description\": \"Under 400px wide, the body is red\",\n      \"definition\": {\n        \"waitForEvent\": \"ud-small\",\n        \"exists\": true\n      }\n    },\n    {\n      \"description\": \"Between 401 and 599px wide, the body is green\",\n      \"definition\": {\n        \"waitForEvent\": \"ud-medium\",\n        \"exists\": true\n      }\n    },\n    {\n      \"description\": \"Greater than 600px wide, the body is blue\",\n      \"definition\": {\n        \"waitForEvent\": \"ud-large\",\n        \"exists\": true\n      }\n    }\n  ]\n}]");</script><test-widget></test-widget><script src="./MediaQueries_files/media-queries-quiz.js" id="ud-98702161"></script><iframe class="mq-test" src="./MediaQueries_files/saved_resource.html" style="position: absolute; left: 100%; width: 650px;"></iframe></body></html>
