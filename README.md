@@ -80,6 +80,13 @@ Since I had gotten the page optimized for small screens, it was now time to star
 * What is a breakpoint, and how to choose one
 * Using the CSS flexbox to modify layout
 
+**Other Takeaways**
+* Media queries.
+ * Linked style sheet: mini small http requests
+  * ```<link rel="stylesheet" media="screen and (min-width: 500px)" href="green.css">```
+ * @media tag: few big http requests
+  * ```@media screen and (min-width:500px) { body {background-color:green;}}
+
 ###Lesson 4 - Common Responsive Patterns
 
 With the basics of responsive design down, I went on to learn about and practice some of the common layout design patterns used across sites. Also, I iterated on the home town site project, creating breakpoints for tablet and desktop layouts using the patterns from this lesson.
