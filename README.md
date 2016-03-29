@@ -83,9 +83,9 @@ Since I had gotten the page optimized for small screens, it was now time to star
 **Other Takeaways**
 * Media queries.
  * Linked style sheet: mini small http requests
-  * ```<link rel="stylesheet" media="screen and (min-width: 500px)" href="green.css">```
+   * ```<link rel="stylesheet" media="screen and (min-width: 500px)" href="green.css">```
  * @media tag: few big http requests
-  * ```@media screen and (min-width:500px) { body {background-color:green;}}
+   * ```@media screen and (min-width:500px) { body {background-color:green;}}```
 
 ###Lesson 4 - Common Responsive Patterns
 
