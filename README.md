@@ -91,6 +91,8 @@ Since I had gotten the page optimized for small screens, it was now time to star
    	@media screen and (min-width:500px) { body {color: #F79420; }}  
         @media screen and (min-width:800px) { body {background-color: blue; }}
 ```
+ * Media Query Quiz
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/3_Building_Up/screenShots/mediaQueryPractice.jpg?raw=true "Media Query Quiz")
  * Between 0 and 400 pixels, set the background color to red:
 ```
 @media screen and (min-width: 0px) and (max-width: 400px) {
@@ -118,7 +120,12 @@ Since I had gotten the page optimized for small screens, it was now time to star
 * `display:flex;` turns divs into a row.
 * `flex-wrap:wrap;` turns divs into a row but resizes by popping a div into the column below.
 * `order` lets you have unique display orders based on pixel size.
-* Design Tools/Patterns: Flex box, Flex grid, breakpoints, media queries.
+* Design Tools/Patterns: 
+  * Flex Box
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/3_Building_Up/screenShots/flexBoxQuiz.jpg?raw=true "Flex Box Example")
+  * Flex Grid
+  * Breakpoints
+  * Media Queries
 
 
 
