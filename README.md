@@ -142,8 +142,7 @@ With the basics of responsive design down, I went on to learn about and practice
 ![Alt text](https://github.com/IanSkyles/ud893/blob/master/4_Common_Responsive_Patterns/screenShots/layoutShifter.jpg?raw=true "Layout shifter")
 * Off canvas pattern
   *An example is a hamburger menu  
-![Alt text](https://github.com/IanSkyles/ud893/blob/master/4_Common_Responsive_Patterns/screenShots/offCanvas1.jpg?raw=true "Burger menu 1")  
-![Alt text](https://github.com/IanSkyles/ud893/blob/master/4_Common_Responsive_Patterns/screenShots/offCanvas2.jpg?raw=true "Burger menu 2")  
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/4_Common_Responsive_Patterns/screenShots/offCanvas1.jpg?raw=true "Burger menu 1") ![Alt text](https://github.com/IanSkyles/ud893/blob/master/4_Common_Responsive_Patterns/screenShots/offCanvas2.jpg?raw=true "Burger menu 2")  
 ####Project progress
 * Added hamburger menu
 * Added media queries to organize page at 3 different sizes (used 2 breakpoints)
