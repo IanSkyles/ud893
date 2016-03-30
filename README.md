@@ -158,7 +158,37 @@ I learned strategies for minor breakpoints used to adjust the margins or padding
   * font size
   * optimal line length
 * Responsive tables, and strategies for dealing with them
-
+w
+**Other Takeaways**
+* Responsive Tables
+  * *Hidden Columns* - Use with caution, try and use abreviated data instead.
+    * use `display:none;`
+  * *No More Tables*
+  * *Contained Tables*
+* Optimal Text Line length is about 65. But, can be 45-90 depending on whether it is projected, text on a computer, font size, font style.
+* It is good practice to see `font-size:18px;` and `line-height:1.25em;`
+* Minor break points - increasing font size or adjusting text arrangement at a certain px. 
+```
+@media screen and (min-width:450px) and (max-width:550px) {
+	body { font-size: 1em; }
+	.seven-day-fc .temp-low, .seven-day-fc .temp-high {
+		display: inline-block;
+		width: 30%;
+	}
+	.seven-day-fc .icon {
+		width:60px;
+		height:60px;
+	}
+}
+```
+```
+@media screen and (min-width:700px) {
+	width: 700px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+```
+@
 ##Instructors
 ###Pete LePage
 Pete is a developer advocate at Google and works to make the lives of web developers easier. Working on projects like Web Fundamentals and Google web developer videos, he's focused on ensuring that developers have the tools and skills they need to build great responsive sites and apps with awesome user experiences.
