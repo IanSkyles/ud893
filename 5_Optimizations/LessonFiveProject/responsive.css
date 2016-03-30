@@ -12,9 +12,6 @@
 
 /*add the hamburger menu */
 @media screen and (max-width: 549px) {
-	.header__inner {
-		text-align: left;
-	}
 	.header__logo {
 		height: 48px;
 		margin-right: 0.5em;

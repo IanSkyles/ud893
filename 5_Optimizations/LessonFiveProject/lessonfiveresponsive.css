@@ -1,5 +1,5 @@
 body {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.2em;
 }
 
@@ -45,6 +45,11 @@ body {
 }
 @media screen and (max-width: 550px) {
 	.scores__table .scores__location {
+		display: none;
+	}
+}
+@media screen and (max-width: 400px) {
+	.scores__table .scores__date {
 		display: none;
 	}
 }
