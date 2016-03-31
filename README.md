@@ -11,12 +11,21 @@ The way people browse the web is changing quickly - fewer and fewer users access
 Throughout this course, I worked through a project. I created a home town website that works well on phones, tablets and desktop displays.
 
 ## Course Final Proect 
-###How do I Complete this Project?  
-  Here's what you should do:  
-1. CURRENTLY EMPTY
-2. NEED TO FILL OUT 
-* 
-*  
+###Making the Hometown website responsive 
+  Here are some of the tings I did:  
+1. [X] Added a <meta> viewport to the page with initial scale set.
+2. [X] Adjusted CSS and markup so that everything displays in a single column. Used relative widths so that things stretch to fit across any viewport width.
+3. [X] Picked a set of breakpoints and a design pattern that I learned to style the page so that it works across different devices.
+4. [X] Tested on multiple phones, tablets, and browser window sizes and adjusted my breakpoints.
+5. [X] Updated sports score taable with responsive design.
+6. [X] Adjusted text size / length. 
+7. [X] Added minor breakpoints.
+8. [] Replaced images with responsive images.
+
+###Final Site Pictures
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete1.jpg?raw=true "Burger menu 1")
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete1.jpg?raw=true "Burger menu 1")
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete1.jpg?raw=true "Burger menu 1")
 
 ##Course Syllabus
 ###Lesson 1 - Why Responsive?
@@ -163,8 +172,11 @@ w
 * Responsive Tables
   * *Hidden Columns* - Use with caution, try and use abreviated data instead.
     * use `display:none;`
+ ![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/hidingTableCol.jpg?raw=true "Hidden Columns")
   * *No More Tables*
+ ![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/noMoreTables1.jpg?raw=true "No more tables")![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/noMoreTables2.jpg?raw=true "No more tables")![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/noMoreTables3.jpg?raw=true "No more tables")
   * *Contained Tables*
+ ![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/containedTables.jpg?raw=true "Contained Tables")
 * Optimal Text Line length is about 65. But, can be 45-90 depending on whether it is projected, text on a computer, font size, font style.
 * It is good practice to see `font-size:18px;` and `line-height:1.25em;`
 * Minor break points - increasing font size or adjusting text arrangement at a certain px. 
