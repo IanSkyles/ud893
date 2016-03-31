@@ -23,9 +23,14 @@ Throughout this course, I worked through a project. I created a home town websit
 8. [] Replaced images with responsive images.
 
 ###Final Site Pictures
-![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete1.jpg?raw=true "Burger menu 1")
-![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete1.jpg?raw=true "Burger menu 1")
-![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete1.jpg?raw=true "Burger menu 1")
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete1.jpg?raw=true "Final Picture 1")
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete2.jpg?raw=true "Final Picture 2")
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete3.jpg?raw=true "Final Picture 3")
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete4.jpg?raw=true "Final Picture 4")
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete5.jpg?raw=true "Final Picture 5")
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete6.jpg?raw=true "Final Picture 6")
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete7.jpg?raw=true "Final Picture 7")
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete8.jpg?raw=true "Final Picture 8")
 
 ##Course Syllabus
 ###Lesson 1 - Why Responsive?
