@@ -22,6 +22,11 @@ Throughout this course, I worked through a project. I created a home town websit
 7. [X] Added minor breakpoints.
 8. [] Replaced images with responsive images.
 
+###Original Site
+As you can see it doesn't look good on mobile. Also, it doesn't respond to fit the window/browser size.
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/start.jpg?raw=true "Original Picture 1")
+![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/start1.jpg?raw=true "Original Picture 2")
+
 ###Final Site Pictures
 ![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete1.jpg?raw=true "Final Picture 1")
 ![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/complete2.jpg?raw=true "Final Picture 2")
