@@ -180,7 +180,7 @@ I learned strategies for minor breakpoints used to adjust the margins or padding
 w
 **Other Takeaways**
 * Responsive Tables
-  * *Hidden Columns* - Use with caution, try and use abreviated data instead.
+  * *Hidden Columns* - Use with caution, try and use abbreviated data instead.
     * use `display:none;`
  ![Alt text](https://github.com/IanSkyles/ud893/blob/master/5_Optimizations/screenShots/hidingTableCol.jpg?raw=true "Hidden Columns")
   * *No More Tables*
